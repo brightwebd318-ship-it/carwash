@@ -9,7 +9,7 @@ import { ArrowRight, Star, ChevronDown, Shield, Award, Users, MapPin, Calendar, 
 ══════════════════════════════════════════ */
 const slides = [
   {
-    img: '/hero/hero_slide1_ferrari.png',
+    img: '/carwash/hero/hero_slide1_ferrari.png',
     tag: 'Ceramic Coating',
     headline: 'Where Luxury\nMeets Immaculate',
     sub: 'Ferrari-grade precision for every vehicle — ceramic coating, full detailing & premium care.',
@@ -18,7 +18,7 @@ const slides = [
     carName: 'Ferrari 488',
   },
   {
-    img: '/hero/hero_slide2_bentley.png',
+    img: '/carwash/hero/hero_slide2_bentley.png',
     tag: 'Premium Detail',
     headline: 'Showroom Perfect\nEvery Time',
     sub: 'Hand-finished detailing that turns your Bentley back into a statement piece.',
@@ -27,7 +27,7 @@ const slides = [
     carName: 'Bentley Continental',
   },
   {
-    img: '/hero/hero_slide3_tesla.png',
+    img: '/carwash/hero/hero_slide3_tesla.png',
     tag: 'EV Specialist',
     headline: 'Futuristic Care\nFor Future Cars',
     sub: 'EV-safe wash systems, touchless technology, and eco-friendly products for your Tesla.',
@@ -36,7 +36,7 @@ const slides = [
     carName: 'Tesla Model S',
   },
   {
-    img: '/hero/hero_slide4_lambo.png',
+    img: '/carwash/hero/hero_slide4_lambo.png',
     tag: 'Hand Wax & Polish',
     headline: 'Your Car Deserves\nThe Best',
     sub: 'Professional hand waxing and paint correction that restores showroom brilliance.',
