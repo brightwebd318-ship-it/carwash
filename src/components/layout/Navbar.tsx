@@ -60,10 +60,10 @@ export default function Navbar() {
             </div>
             <div>
               <div style={{ fontFamily: 'var(--font-space-grotesk)', fontWeight: 700, fontSize: '1.2rem', lineHeight: 1 }}>
-                <span className="gradient-text-cyan">Aqua</span>
-                <span style={{ color: 'var(--text-primary)' }}>Lux</span>
+                <span className="gradient-text-cyan">Ultimate</span>
+                <span style={{ color: 'var(--text-primary)' }}> Auto</span>
               </div>
-              <div style={{ fontSize: '0.6rem', letterSpacing: '0.15em', color: 'var(--text-muted)', textTransform: 'uppercase' }}>Car Wash</div>
+              <div style={{ fontSize: '0.6rem', letterSpacing: '0.15em', color: 'var(--text-muted)', textTransform: 'uppercase' }}>Spa</div>
             </div>
           </Link>
 
